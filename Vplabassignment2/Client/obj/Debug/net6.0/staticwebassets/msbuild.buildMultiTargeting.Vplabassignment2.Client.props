@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Vplabassignment2.Client.props" />
+</Project>

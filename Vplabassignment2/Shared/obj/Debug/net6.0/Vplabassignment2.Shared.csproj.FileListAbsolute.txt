@@ -1,0 +1,11 @@
+D:\Uni\Sem 5\VP Lab\Vplabassignment2\Vplabassignment2\Shared\bin\Debug\net6.0\Vplabassignment2.Shared.deps.json
+D:\Uni\Sem 5\VP Lab\Vplabassignment2\Vplabassignment2\Shared\bin\Debug\net6.0\Vplabassignment2.Shared.dll
+D:\Uni\Sem 5\VP Lab\Vplabassignment2\Vplabassignment2\Shared\bin\Debug\net6.0\Vplabassignment2.Shared.pdb
+D:\Uni\Sem 5\VP Lab\Vplabassignment2\Vplabassignment2\Shared\obj\Debug\net6.0\Vplabassignment2.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Sem 5\VP Lab\Vplabassignment2\Vplabassignment2\Shared\obj\Debug\net6.0\Vplabassignment2.Shared.AssemblyInfoInputs.cache
+D:\Uni\Sem 5\VP Lab\Vplabassignment2\Vplabassignment2\Shared\obj\Debug\net6.0\Vplabassignment2.Shared.AssemblyInfo.cs
+D:\Uni\Sem 5\VP Lab\Vplabassignment2\Vplabassignment2\Shared\obj\Debug\net6.0\Vplabassignment2.Shared.csproj.CoreCompileInputs.cache
+D:\Uni\Sem 5\VP Lab\Vplabassignment2\Vplabassignment2\Shared\obj\Debug\net6.0\Vplabassignment2.Shared.dll
+D:\Uni\Sem 5\VP Lab\Vplabassignment2\Vplabassignment2\Shared\obj\Debug\net6.0\refint\Vplabassignment2.Shared.dll
+D:\Uni\Sem 5\VP Lab\Vplabassignment2\Vplabassignment2\Shared\obj\Debug\net6.0\Vplabassignment2.Shared.pdb
+D:\Uni\Sem 5\VP Lab\Vplabassignment2\Vplabassignment2\Shared\obj\Debug\net6.0\ref\Vplabassignment2.Shared.dll
